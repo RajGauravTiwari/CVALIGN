@@ -1,0 +1,31 @@
+# Core web framework
+fastapi
+uvicorn
+
+# PDF/DOCX Parsing
+pdfplumber
+python-docx
+
+# LangChain and LLM-related
+langchain
+langchain-community
+langchain-core
+llama-index
+llama-cpp-python
+faiss-cpu
+
+# Embeddings and model integration
+sentence-transformers
+transformers
+openai
+tiktoken
+
+# Environment and config
+python-dotenv
+
+# CORS for API access
+fastapi[all]
+
+# Misc
+pydantic
+requests
