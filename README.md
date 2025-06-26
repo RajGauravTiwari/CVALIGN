@@ -100,9 +100,6 @@ App runs on: `http://localhost:5173`
 - **PDF not parsing**: Ensure valid PDF format and PyMuPDF is installed.
 - **`llama.dll` error**: Only 64-bit Python is supported.
 
-## 📄 License
-
-MIT
 
 ---
 
